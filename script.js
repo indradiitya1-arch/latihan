@@ -1,1 +1,1 @@
-
+alert("Website berhasil dijalankan!");
